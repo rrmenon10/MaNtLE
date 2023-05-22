@@ -1,2 +1,3 @@
 # MaNtLE
-MaNtLE: Model-agnostic Natural Language Explainer
+
+Inference code and model checkpoints will be made available soon.
