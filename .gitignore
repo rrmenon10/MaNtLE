@@ -1,0 +1,13 @@
+env
+pretrained_mantle
+pretrained_models
+data
+!mantle/data
+*.pyc
+*.pkl
+*.png
+*.txt
+*.jsonl
+__pycache__
+.DS_Store
+*.out
